@@ -1,2 +1,2 @@
 # ObjectChess
-Object Oriented C# practice. Not really chess but a console app prototype. 
+Object Oriented C# practice. Not really chess but it's on a board (?). Anyway, no rules are really implemented - I just practiced OO and polymorphism.
